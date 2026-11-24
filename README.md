@@ -22,6 +22,7 @@ solve real-world problems.
 - 🤖 AI Agents and SRE automation
 - 🛠️ Open-source experiments
 - 🎮 Embedded systems & creative projects
+- 🧠 Learning methods & personal knowledge management
 
 ### 🛠️ Tech Stack
 
@@ -55,6 +56,7 @@ Building small hardware experiments and games.
 - Cloud-native observability
 - Physical AI & embedded systems
 - Interesting open-source projects
+- Learning how to learn
 
 ---
 
